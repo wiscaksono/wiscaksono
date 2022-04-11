@@ -12,7 +12,7 @@
   <a href= "https://twitter.com/wiscaksono">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/twitter.png"/>
   </a>
-  <a href= "https://www.wiscaksono-netlify.app">
+  <a href= "https://wiscaksono.vercel.app/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
   </a>
   <a href="mailto:wwicaksono96@gmail.com">
