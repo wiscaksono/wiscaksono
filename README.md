@@ -1,6 +1,6 @@
-<p align="center">
+<h2 align="center">
   Take a look at my repositories and let's get in touch!
-</p>
+</h2>
 <p align="center">
   <a href= "https://github.com/wiscaksono/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
