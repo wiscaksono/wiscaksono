@@ -2,7 +2,10 @@
   Take a look at my repositories and let's get in touch!
 </h2>
 <p align="center">
-  <a href= "https://www.instagram.com/amachoker//">
+  <a href= "https://www.facebook.com/wiscaksono/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/facebook.png"/>
+  </a>
+  <a href= "https://www.instagram.com/amachoker/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/instagram.png"/>
   </a>
   <a href= "https://www.linkedin.com/in/wiscaksono/">
