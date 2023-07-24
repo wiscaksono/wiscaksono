@@ -17,4 +17,3 @@ jobs:
           SHOW_MASKED_TIME: true
           LANG_COUNT: 10
           SHOW_TITLE: true
-          TIME_RANGE: last_30_days
